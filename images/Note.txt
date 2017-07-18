@@ -1,0 +1,1 @@
+format nama : M1_koordinat-x_koordinat-y.png
